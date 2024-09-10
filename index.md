@@ -10,8 +10,14 @@ Provide an introduction to your project here. Explain what it does, its purpose,
 
 ## Code Examples
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ### Git Command Example
 
 ```bash
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
