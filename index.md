@@ -24,3 +24,4 @@ To install the project, follow these steps:
 git clone https://github.com/username/repository.git
 cd repository
 npm install
+![68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f79616b746f6361742e706e67](https://github.com/user-attachments/assets/8af639e0-7540-4e11-8617-b6295146f887)
